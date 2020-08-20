@@ -1,0 +1,7 @@
+Day - 1
+
+Problem - 1: https://leetcode.com/problems/running-sum-of-1d-array/
+
+Problem - 2: https://leetcode.com/problems/shuffle-the-array/
+
+Problem - 3: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/

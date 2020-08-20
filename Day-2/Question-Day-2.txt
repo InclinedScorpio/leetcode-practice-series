@@ -1,0 +1,7 @@
+Day - 2
+
+Problem - 1: https://leetcode.com/problems/defanging-an-ip-address/
+
+Problem - 2: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+
+Problem - 3: https://leetcode.com/problems/number-of-good-pairs/

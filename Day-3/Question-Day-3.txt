@@ -1,0 +1,7 @@
+Day - 3
+
+Problem - 1: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+
+Problem - 2: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
+Problem - 3: https://leetcode.com/problems/xor-operation-in-an-array/
